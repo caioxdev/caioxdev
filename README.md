@@ -7,7 +7,7 @@
 ### 📊 Estatísticas do GitHub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caio123&layout=compact&theme=radical)
 
-### 🛠️ Tecnologias que uso:
+### 🛠️ Linguagens e Tecnologias:
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
