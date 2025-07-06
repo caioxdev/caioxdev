@@ -13,5 +13,5 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=fff)
 
-### 🔗 Me encontre:
+### 🔗 Encontra-me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-seabra-de-queiroz-24a0a7271/)
