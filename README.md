@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I'm Caio Seabra 👋</h1>
+<h1 align="center">Olá, eu sou o Caio Seabra 👋</h1>
 
-💻 Fullstack Developer in training | 18 anos  
+💻 Desenvolvedor fullstack em desenvolvimento | 18 anos  
 📚 Estudando C, HTML, CSS, JavaScript  
 🚀 Buscando evoluir como dev todos os dias
 
-### 📊 GitHub Stats
+### 📊 Estatísticas do GitHub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caio123&layout=compact&theme=radical)
 
 ### 🛠️ Tecnologias que uso:
