@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Caio Seabra 👋</h1>
 
-<!--
-**caioxdev/caioxdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Fullstack Developer in training | 18 anos  
+📚 Estudando C, HTML, CSS, JavaScript  
+🚀 Buscando evoluir como dev todos os dias
 
-Here are some ideas to get you started:
+### 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caio123&layout=compact&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias que uso:
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=fff)
+
+### 🔗 Me encontre:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-seabra-de-queiroz-24a0a7271/)
