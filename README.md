@@ -14,7 +14,14 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caioxdev&layout=compact&theme=radical)
 
 ### 🛠️ Linguagens e Tecnologias:
-[![Tecnologias](https://skillicons.dev/icons?i=html,css,javascript,c,mysql,vscode,bootstrap,git,github,firebase)](https://skillicons.dev)
+[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![C](https://skillicons.dev/icons?i=c)](https://devdocs.io/c/)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/doc)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://docs.github.com/pt)
+[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/docs)
 
 ### 🔗 Encontra-me:
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/caio-seabra-de-queiroz-24a0a7271/)
