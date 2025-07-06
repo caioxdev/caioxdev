@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&width=600&lines=👋 Olá,+eu+sou+o+Caio+Seabra!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&width=600&lines=%F0%9F%91%8B+Olá,+eu+sou+o+Caio+Seabra!+💻 alt="Typing SVG" />
 </p>
 
 **`Desenvolvedor FullStack`**
 
-<p style="font-size:16px;">👨‍💻 Me chamo <strong>Caio Seabra de Queiroz</strong> Tenho <strong>18 anos</strong> e sou natural de <strong>Brasília-DF</strong>. Atualmente sou estudante de Ciência da Computação e estou iniciando minha jornada como desenvolvedor Fullstack. Tenho me dedicado aos estudos de <strong>C, HTML, CSS e JavaScript, SQL</strong> construindo projetos simples e práticos para fixar o aprendizado. Sou apaixonado por tecnologia, sempre buscando evoluir e aprender algo novo todos os dias. Aqui no GitHub compartilho meus estudos, projetos pessoais e desafios que enfrento ao longo do caminho.</p>
+👨‍💻 Me chamo <strong>Caio Seabra de Queiroz</strong>, tenho <strong>18 anos</strong> e sou natural de <strong>Brasília-DF</strong>. Atualmente sou estudante de Ciência da Computação e estou iniciando minha jornada como desenvolvedor Fullstack. Tenho me dedicado aos estudos de <strong>C, HTML, CSS e JavaScript, SQL</strong> construindo projetos simples e práticos para fixar o aprendizado. Sou apaixonado por tecnologia, sempre buscando evoluir e aprender algo novo todos os dias. Aqui no GitHub compartilho meus estudos, projetos pessoais e desafios que enfrento ao longo do caminho.
 
 💻 Desenvolvedor fullstack em desenvolvimento | 18 anos  
 📚 Estudando C, HTML, CSS, JavaScript  
