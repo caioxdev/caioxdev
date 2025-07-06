@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&width=600&lines=%F0%9F%91%8B+Olá,+eu+sou+o+Caio+Seabra!+💻 alt="Typing SVG" />
+ <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=40E0D0&width=600&lines=👋+Olá,+eu+sou+o+Caio+Seabra!+💻" alt="Typing SVG" />
 </p>
 
 **`Desenvolvedor FullStack`**
