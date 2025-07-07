@@ -4,7 +4,11 @@
 
 **`Desenvolvedor FullStack`**
 
+# Sobre mim
+
 👨‍💻 Me chamo <strong>Caio Seabra de Queiroz</strong>, tenho <strong>18 anos</strong> e sou natural de <strong>Brasília-DF</strong>. Atualmente sou estudante de Ciência da Computação e estou iniciando minha jornada como desenvolvedor Fullstack. Tenho me dedicado aos estudos de <strong>C, HTML, CSS e JavaScript, SQL</strong> construindo projetos simples e práticos para fixar o aprendizado. Sou apaixonado por tecnologia, sempre buscando evoluir e aprender algo novo todos os dias. Aqui no GitHub compartilho meus estudos, projetos pessoais e desafios que enfrento ao longo do caminho.
+
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=&logoColor=white)](https://www.linkedin.com/in/caio-seabra-de-queiroz-24a0a7271/)
 
 💻 Desenvolvedor fullstack em desenvolvimento | 18 anos  
 📚 Estudando HTML, CSS, JavaScript, C, Git e Github  
@@ -23,8 +27,18 @@
 [![GitHub](https://skillicons.dev/icons?i=github)](https://docs.github.com/pt)
 [![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/docs)
 
-### 🔗 Encontra-me:
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/caio-seabra-de-queiroz-24a0a7271/)
+### ⚙️ Projetos futuros
+
+<div align="alight">
+
+| Projeto | Tecnologias | Descrição | Demonstração |
+|---------|------------|-----------|------|
+| **[<img src="https://cdn-icons-png.flaticon.com/512/2906/2906274.png" width=20> Portfólio Pessoal](https://meuportfolioembreve)** | <div style="display: flex; gap: 8px;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=24 title="HTML5"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=24 title="CSS3"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=24 title="JavaScript">  </div> | Em breve... | <a href="https://meuporfolioembreve" target="_blank"><img src="https://img.shields.io/badge/-Em%20Breve-2ea44f?style=for-the-badge&logo=github&logoColor=white"></a> |
+| Em breve... | Em breve...| Em breve...| <a href="embreve/" target="_blank"><img src="https://img.shields.io/badge/-Em%20Breve-2ea44f?style=for-the-badge&logo=gamejolt&logoColor=white"></a> |
+| Em breve... | Em breve...| Em breve...| <a href="https://icarox52.github.io/fakeStoreApi/" target="_blank"><img src="https://img.shields.io/badge/-Test%20Demo-2ea44f?style=for-the-badge&logo=shopping-bag&logoColor=white"></a> |
+| Em breve...| Em breve... | Em breve...| <a href="https://embreve/" target="_blank"><img src="https://img.shields.io/badge/-Em%20Breve-2ea44f?style=for-the-badge&logo=chatbot&logoColor=white"></a> |
+
+</div>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
