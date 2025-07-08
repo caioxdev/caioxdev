@@ -15,7 +15,10 @@
 🚀 Buscando evoluir como dev todos os dias
 
 ### 📊 Estatísticas do GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caioxdev&layout=compact&theme=radical)
+<div align="alight">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caioxdev&show_icons=true&theme=gruvbox" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioxdev&layout=compact&theme=gruvbox"/>
+</div>
 
 ### 🛠️ Linguagens e Tecnologias:
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
