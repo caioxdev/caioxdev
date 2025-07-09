@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=&logoColor=white)](https://www.linkedin.com/in/caioseabradequeiroz/)
 [![Gmail](https://img.shields.io/badge/GMAIL-D94C4C?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=contato.caiosq@gmail.com&su=Contato%20via%20GitHub&body=Olá%20Caio!%0A%0ADescobri%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar%20sobre%20seus%20projetos.)
 
-💻 Desenvolvedor fullstack em desenvolvimento | 18 anos  
+💻 Desenvolvedor fullstack em formação | 18 anos  
 📚 Estudando HTML, CSS, JavaScript, C, Git e Github  
 🚀 Buscando evoluir como dev todos os dias
 
