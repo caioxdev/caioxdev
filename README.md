@@ -8,7 +8,7 @@
 
 👨‍💻 Me chamo <strong>Caio Seabra de Queiroz</strong>, tenho <strong>18 anos</strong> e sou natural de <strong>Brasília-DF</strong>. Atualmente sou estudante de Ciência da Computação e estou iniciando minha jornada como desenvolvedor Fullstack. Tenho me dedicado aos estudos de <strong>C, HTML, CSS e JavaScript, SQL</strong> construindo projetos simples e práticos para fixar o aprendizado. Sou apaixonado por tecnologia, sempre buscando evoluir e aprender algo novo todos os dias. Aqui no GitHub compartilho meus estudos, projetos pessoais e desafios que enfrento ao longo do caminho.
 
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=&logoColor=white)](https://www.linkedin.com/in/caio-seabra-de-queiroz-24a0a7271/)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=&logoColor=white)](https://www.linkedin.com/in/caioseabradequeiroz/)
 
 💻 Desenvolvedor fullstack em desenvolvimento | 18 anos  
 📚 Estudando HTML, CSS, JavaScript, C, Git e Github  
