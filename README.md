@@ -16,10 +16,15 @@
 🚀 Buscando evoluir como dev todos os dias
 
 ### 📊 Estatísticas do GitHub
-<div align="alight">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caioxdev&show_icons=true&theme=gruvbox" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioxdev&layout=compact&theme=gruvbox"/>
+<div style="display: flex" align=alight>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=caioxdev&show_icons=true&theme=gruvbox&card_width=300" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caioxdev&theme=gruvbox&layout=compact&langs_count=8&card_width=300" />
+  </a>
 </div>
+
 
 ### 🛠️ Linguagens e Tecnologias:
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
