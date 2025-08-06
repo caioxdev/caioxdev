@@ -33,6 +33,8 @@
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [![C](https://skillicons.dev/icons?i=c)](https://devdocs.io/c/)
+[![JAVA](https://skillicons.dev/icons?i=java)](https://devdocs.io/c/)
+[![VUE](https://skillicons.dev/icons?i=vue)](https://devdocs.io/c/)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/doc)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://docs.github.com/pt)
