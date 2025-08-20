@@ -35,10 +35,10 @@
 [![C](https://skillicons.dev/icons?i=c)](https://devdocs.io/c/)
 [![JAVA](https://skillicons.dev/icons?i=java)](https://devdocs.io/c/)
 [![VUE](https://skillicons.dev/icons?i=vue)](https://devdocs.io/c/)
+[![SASS](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/doc)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://docs.github.com/pt)
-[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/docs)
 
 ### ⚙️ Projetos futuros
 
