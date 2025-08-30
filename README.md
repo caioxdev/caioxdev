@@ -13,10 +13,6 @@
 👨‍💻 Estudante de **Ciência da Computação**, focado em **desenvolvimento Fullstack**.  
 Estudo **Java, Spring Boot, React e MySQL**, buscando evoluir e criar projetos reais.  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="150px" align="right">
-</p>
-
 <p align="left">
   <a href="https://www.linkedin.com/in/caioseabradequeiroz/">
     <img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=&logoColor=white">
