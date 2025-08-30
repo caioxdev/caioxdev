@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=10B981&width=600&lines=👋+Olá,+eu+sou+Caio+Seabra!" alt="Typing SVG" />
 </p>
 
-**`Desenvolvedor Fullstack`**
+**`Desenvolvedor Fullstack Java`**
 
 # Sobre mim
 
@@ -14,7 +14,7 @@
 Estudo **Java, Spring Boot, React e MySQL**, buscando evoluir e criar projetos reais.  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="220px" align="right">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="200px" align="right">
 </p>
 
 <p align="left">
@@ -27,12 +27,12 @@ Estudo **Java, Spring Boot, React e MySQL**, buscando evoluir e criar projetos r
 </p>
 
 ### 📊 Estatísticas do GitHub
-<div style="display: flex; align="left">
+<div style="display: flex; align="center">
   <a href="https://github.com/caioxdev">
-    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=caioxdev&show_icons=true&theme=gruvbox&card_width=300" />
+    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=caioxdev&show_icons=true&theme=gruvbox&card_width=180" />
   </a>
   <a href="https://github.com/caioxdev">
-    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioxdev&layout=compact&theme=gruvbox&langs_count=8&card_width=300" />
+    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioxdev&layout=compact&theme=gruvbox&langs_count=8&card_width=180" />
   </a>
 </div>
 
