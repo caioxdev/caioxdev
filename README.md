@@ -27,7 +27,7 @@ Estudo **Java, Spring Boot, React e MySQL**, buscando evoluir e criar projetos r
 </p>
 
 ### 📊 Estatísticas do GitHub
-<div style="display: flex; gap: 20px;" align="center">
+<div style="display: flex; align="left">
   <a href="https://github.com/caioxdev">
     <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=caioxdev&show_icons=true&theme=gruvbox&card_width=300" />
   </a>
