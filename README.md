@@ -14,7 +14,7 @@
 Estudo **Java, Spring Boot, React e MySQL**, buscando evoluir e criar projetos reais.  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="200px" align="right">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="150px" align="right">
 </p>
 
 <p align="left">
@@ -27,7 +27,7 @@ Estudo **Java, Spring Boot, React e MySQL**, buscando evoluir e criar projetos r
 </p>
 
 ### 📊 Estatísticas do GitHub
-<div style="display: flex; align="center">
+<div style="display: flex; gap: 20px;" align="left">
   <a href="https://github.com/caioxdev">
     <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=caioxdev&show_icons=true&theme=gruvbox&card_width=180" />
   </a>
