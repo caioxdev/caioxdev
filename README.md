@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=10B981&width=600&lines=👋+Olá,+eu+sou+Caio+Seabra!" alt="Typing SVG" />
 </p>
 
-**`Desenvolvedor Fullstack Java`**
+**`Desenvolvedor Fullstack`**
 
 # Sobre mim
 
