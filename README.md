@@ -1,9 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&color=22c55e&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&color=3B82F6&animation=fadeIn"/>
 
 [![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://github.com/caioxdev)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=10B981&width=600&lines=👋+Olá,+eu+sou+Caio+Seabra!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=3B82F6&width=600&lines=👋+Olá,+eu+sou+Caio+Seabra!" alt="Typing SVG" />
 </p>
 
 **`Desenvolvedor Fullstack`**
@@ -15,7 +15,7 @@ Estudo **Java, Spring Boot, React e MySQL**, buscando evoluir e criar projetos r
 
 <p align="left">
   <a href="https://www.linkedin.com/in/caioseabradequeiroz/">
-    <img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=&logoColor=white">
+    <img src="https://img.shields.io/badge/-LINKEDIN-3B82F6?style=for-the-badge&logo=&logoColor=white">
   </a>
   <a href="mailto:contato.caiosq@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-EF4444?style=for-the-badge&logo=gmail&logoColor=white">
@@ -56,11 +56,10 @@ Estudo **Java, Spring Boot, React e MySQL**, buscando evoluir e criar projetos r
 
 </div>
 
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=22c55e&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=3B82F6&animation=fadeIn" />
