@@ -25,10 +25,10 @@ Estudo **Java, Spring Boot, React e MySQL**, buscando evoluir e criar projetos r
 ### 📊 Estatísticas do GitHub
 <div style="display: flex; gap: 20px;" align="left">
   <a href="https://github.com/caioxdev">
-    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=caioxdev&show_icons=true&theme=gruvbox&card_width=180" />
+    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=caioxdev&show_icons=true&theme=transparent&card_width=180" />
   </a>
   <a href="https://github.com/caioxdev">
-    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioxdev&layout=compact&theme=gruvbox&langs_count=8&card_width=180" />
+    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioxdev&layout=compact&theme=transparent&langs_count=8&card_width=180" />
   </a>
 </div>
 
