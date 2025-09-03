@@ -13,6 +13,12 @@
 👨‍💻 Estudante de **Ciência da Computação**, focado em **desenvolvimento Fullstack**.  
 Estudo **Java, Spring Boot, React e MySQL**, buscando evoluir e criar projetos reais.  
 
+<img src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png" 
+     width="220" height="220" 
+     style="float: right; margin-left: 20px; margin-bottom: 10px;" align="right">
+
+
+
 <p align="left">
   <a href="https://www.linkedin.com/in/caioseabradequeiroz/">
     <img src="https://img.shields.io/badge/-LINKEDIN-3B82F6?style=for-the-badge&logo=&logoColor=white">
@@ -57,9 +63,9 @@ Estudo **Java, Spring Boot, React e MySQL**, buscando evoluir e criar projetos r
 </div>
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caioxdev/caioxdev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caioxdev/caioxdev/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/caioxdev/caioxdev/output/github-contribution-grid-snake.svg">
 </picture>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=3B82F6&animation=fadeIn" />
