@@ -14,7 +14,7 @@
 Estudo **Java, Spring Boot, React e MySQL**, buscando evoluir e criar projetos reais.  
 
 <img src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png" 
-     width="100" height="100" 
+     width="150" height="150" 
      style="float: right; margin-left: 20px; margin-bottom: 10px;" align="right">
 
 
