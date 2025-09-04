@@ -23,7 +23,7 @@ Estudo **Java, Spring Boot, React e MySQL**, buscando evoluir e criar projetos r
   <a href="https://www.linkedin.com/in/caioseabradequeiroz/">
     <img src="https://img.shields.io/badge/-LINKEDIN-3B82F6?style=for-the-badge&logo=&logoColor=white">
   </a>
-  <a href="mailto:caiosq@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=contato.caiosq@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-EF4444?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
