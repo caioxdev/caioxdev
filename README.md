@@ -62,9 +62,14 @@ Estudo **Java, Spring Boot, React e MySQL**, buscando evoluir e criar projetos r
 
 </div>
 
-<picture align="center">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caioxdev/caioxdev/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/caioxdev/caioxdev/output/github-contribution-grid-snake.svg">
+  <img 
+    src="https://raw.githubusercontent.com/caioxdev/caioxdev/output/github-contribution-grid-snake.svg" 
+    alt="A cobra não está indo mais, será que caiu? 😅"
+    style="display:block; margin:auto;"
+  >
 </picture>
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=3B82F6&animation=fadeIn" />
