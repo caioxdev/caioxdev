@@ -63,12 +63,9 @@ Estudo **Java, Spring Boot, React e MySQL**, buscando evoluir e criar projetos r
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caioxdev/caioxdev/output/github-contribution-grid-snake-dark.svg">
-  <img 
-    src="https://raw.githubusercontent.com/caioxdev/caioxdev/output/github-contribution-grid-snake.svg" 
-    style="display:block; margin:auto;"
-  >
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caioxdev/caioxdev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caioxdev/caioxdev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/caioxdev/caioxdev/output/pacman-contribution-graph.svg">
 </picture>
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=3B82F6&animation=fadeIn" />
