@@ -42,6 +42,7 @@ Estudo **Java, Spring Boot, React e MySQL**, buscando evoluir e criar projetos r
 [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
 [![SASS](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/)
+[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
 [![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
 [![Java](https://skillicons.dev/icons?i=java)](https://www.oracle.com/java/)
 [![Spring Boot](https://skillicons.dev/icons?i=spring)](https://spring.io/projects/spring-boot)
