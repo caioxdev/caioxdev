@@ -1,6 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&color=3B82F6&animation=fadeIn"/>
-
-[![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://github.com/caioxdev)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Caio%20Seabra%20de%20Queiroz&fontAlign=50&fontAlignY=35&color=0:002E6E,70:007BFF,100:00BFA5&fontColor=ffffff&fontSize=40&desc=Desenvolvedor%20FullStack%20|%20ReactJS%20•%20Tailwind%20•%20Java%20•%20Spring%20Boot&descAlignY=55&descAlign=50&animation=fadeIn"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=3B82F6&width=600&lines=👋+Olá,+eu+sou+Caio+Seabra!" alt="Typing SVG" />
@@ -68,4 +66,4 @@ Estudo **Java, Spring Boot, React e MySQL**, buscando evoluir e criar projetos r
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/caioxdev/caioxdev/output/pacman-contribution-graph.svg">
 </picture>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=3B82F6&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:00BFA5,70:007BFF,100:002E6E&section=footer&animation=fadeIn"/>
