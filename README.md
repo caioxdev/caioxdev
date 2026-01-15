@@ -9,7 +9,7 @@
 # Sobre mim
 
 👨‍💻 Estudante de **Ciência da Computação**, focado em **desenvolvimento Fullstack**.  
-Estudo **Java, Spring Boot, React e MySQL**, buscando evoluir e criar projetos reais.  
+Estudo **NodeJS, React e SQL**, buscando evoluir e criar projetos reais.  
 
 <img src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png" 
      width="120" height="120" 
@@ -43,10 +43,9 @@ Estudo **Java, Spring Boot, React e MySQL**, buscando evoluir e criar projetos r
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
 [![SASS](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/)
 [![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
-[![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
-[![Java](https://skillicons.dev/icons?i=java)](https://www.oracle.com/java/)
-[![Spring Boot](https://skillicons.dev/icons?i=spring)](https://spring.io/projects/spring-boot)
+[![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/doc)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://docs.github.com/pt)
 
