@@ -8,8 +8,8 @@
 
 # Sobre mim
 
-👨‍💻 Estudante de **Ciência da Computação**, focado em **desenvolvimento Fullstack**.  
-Estudo **NodeJS, React e SQL**, buscando evoluir e criar projetos reais.  
+👨‍💻 Estudante de Ciência da Computação com foco em **Desenvolvimento Web**.
+Atualmente estudando **Node.js, React e SQL**, buscando evoluir para Full Stack e **criar projetos reais com boas práticas, organização e código limpo**. 
 
 <img src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png" 
      width="120" height="120" 
@@ -27,14 +27,11 @@ Estudo **NodeJS, React e SQL**, buscando evoluir e criar projetos reais.
 </p>
 
 ### 📊 Estatísticas do GitHub
-<div style="display: flex; gap: 20px;" align="left">
-  <a href="https://github.com/caioxdev">
-    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=caioxdev&show_icons=true&theme=transparent&card_width=180" />
-  </a>
-  <a href="https://github.com/caioxdev">
-    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioxdev&layout=compact&theme=transparent&langs_count=8&card_width=180" />
-  </a>
-</div>
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caioxdev&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioxdev&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
 
 ### 🛠️ Tecnologias e Skills
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
