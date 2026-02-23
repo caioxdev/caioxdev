@@ -8,9 +8,9 @@
 
 # Sobre mim
 
-👨‍💻 Desenvolvedor em formação em Ciência da Computação, focado na construção de aplicações web modernas, responsivas e bem estruturadas.
+👨‍💻 Desenvolvedor em formação em Ciência da Computação, **focado na construção de aplicações web modernas, responsivas e bem estruturadas.**
 
-Possuo experiência prática no desenvolvimento de interfaces com HTML, CSS, Sass, JavaScript, React e Tailwind CSS, priorizando organização, legibilidade e escalabilidade do código.
+Possuo experiência prática no desenvolvimento de interfaces com **HTML, CSS, Sass, JavaScript, React e Tailwind CSS**, priorizando organização, legibilidade e escalabilidade do código.
 
 Atualmente ampliando minha atuação para o desenvolvimento web completo, aprofundando conhecimentos em:
 
