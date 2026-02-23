@@ -8,8 +8,17 @@
 
 # Sobre mim
 
-👨‍💻 Estudante de Ciência da Computação com foco em **Desenvolvimento Web**.
-Atualmente estudando **Node.js, React e SQL**, buscando evoluir para Full Stack e **criar projetos reais com boas práticas, organização e código limpo**. 
+👨‍💻 Desenvolvedor em formação em Ciência da Computação, focado na construção de aplicações web modernas, responsivas e bem estruturadas.
+
+Possuo experiência prática no desenvolvimento de interfaces com HTML, CSS, Sass, JavaScript, React e Tailwind CSS, priorizando organização, legibilidade e escalabilidade do código.
+
+Atualmente ampliando minha atuação para o desenvolvimento web completo, aprofundando conhecimentos em:
+
+- Node.js e criação de APIs
+- Consumo e desenvolvimento de APIs REST
+- Modelagem e consultas com SQL
+- Estruturação de projetos Full Stack
+- Ambiente Linux e conteinerização com Docker
 
 <img src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png" 
      width="120" height="120" 
@@ -21,7 +30,7 @@ Atualmente estudando **Node.js, React e SQL**, buscando evoluir para Full Stack 
   <a href="https://www.linkedin.com/in/caioseabradequeiroz/">
     <img src="https://img.shields.io/badge/-LINKEDIN-3B82F6?style=for-the-badge&logo=&logoColor=white">
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=contato.caiosq@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=caioseabradequeiroz2006@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-EF4444?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
