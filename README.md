@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Caio%20Seabra%20de%20Queiroz&fontAlign=50&fontAlignY=35&color=0:002E6E,70:007BFF,100:00BFA5&fontColor=ffffff&fontSize=40&desc=Desenvolvedor%20Web%20|%20ReactJS%20•%20Tailwind%20•%20NodeJS%20&descAlignY=55&descAlign=50&animation=fadeIn"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=3B82F6&width=600&lines=👋+Olá,+eu+sou+Caio+Seabra!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=3B82F6&width=600&lines=👋+Olá,+eu+sou+Caio!" alt="Typing SVG" />
 </p>
 
 **`Desenvolvedor Web`**
