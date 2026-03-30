@@ -28,7 +28,7 @@ Atualmente ampliando minha atuação para o desenvolvimento web completo, aprofu
 
 <p align="left">
   <a href="https://www.linkedin.com/in/caioseabradequeiroz/">
-    <img src="https://img.shields.io/badge/-LINKEDIN-3B82F6?style=for-the-badge&logo=&logoColor=white">
+    <img src="https://img.shields.io/badge/-LINKEDIN-3B82F6?style=for-the-badge&logo=logmein&logoColor=white">
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=caioseabradequeiroz2006@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-EF4444?style=for-the-badge&logo=gmail&logoColor=white">
