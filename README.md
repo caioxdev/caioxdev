@@ -8,16 +8,16 @@
 
 # Sobre mim
 
-👨‍💻 Desenvolvedor em formação em Ciência da Computação, **focado na construção de aplicações web modernas, responsivas e bem estruturadas.**
+👨‍💻 Desenvolvedor em formação em Ciência da Computação, com foco na construção de aplicações web modernas, responsivas e bem estruturadas.
 
-Possuo experiência prática no desenvolvimento de interfaces com **HTML, CSS, Sass, JavaScript, React e Tailwind CSS**, priorizando organização, legibilidade e escalabilidade do código.
+Tenho experiência prática no desenvolvimento de interfaces utilizando HTML, CSS, Sass, JavaScript, Vue e Tailwind CSS, com atenção à organização, legibilidade e escalabilidade do código.
 
-Atualmente ampliando minha atuação para o desenvolvimento web completo, aprofundando conhecimentos em:
+Atualmente, estou aprofundando meus conhecimentos em desenvolvimento full stack, com foco em:
 
-- Node.js e criação de APIs
-- Consumo e desenvolvimento de APIs REST
+- Criação de APIs com Node.js
+- Consumo e estruturação de APIs REST
 - Modelagem e consultas com SQL
-- Estruturação de projetos Full Stack
+- Estruturação de aplicações completas (front-end + back-end)
 - Ambiente Linux e conteinerização com Docker
 
 <img src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png" 
@@ -46,7 +46,7 @@ Atualmente ampliando minha atuação para o desenvolvimento web completo, aprofu
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![Vue](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
 [![SASS](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/)
 [![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
 [![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
