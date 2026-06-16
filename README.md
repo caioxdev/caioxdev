@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Caio%20Seabra%20de%20Queiroz&fontAlign=50&fontAlignY=35&color=0:002E6E,70:007BFF,100:00BFA5&fontColor=ffffff&fontSize=40&desc=Desenvolvedor%20Web%20|%20Node.js%20•%20NestJS%20•%20JavaScript&descAlignY=55&descAlign=50&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Caio%20Seabra%20de%20Queiroz&fontAlign=50&fontAlignY=35&color=0:002E6E,70:007BFF,100:00BFA5&fontColor=ffffff&fontSize=40&desc=Full%20Stack%20em%20formação%20|%20React.js%20•%20NestJS%20&descAlignY=55&descAlign=50&animation=fadeIn"/>
 
 # 👋 Olá, eu sou Caio Seabra
 
@@ -20,24 +20,15 @@ Desenvolvedor em formação em Ciência da Computação, com foco na construçã
 
 ## 💻 Sobre mim
 
-Desenvolvedor em formação em Ciência da Computação, com foco na construção de aplicações web modernas e no desenvolvimento full stack.
+Estudante de Ciência da Computação.
+Construindo aplicações web full stack — front com React/Next, back com NestJS.
 
 Atualmente, estou aprofundando meus conhecimentos em:
 
-- Desenvolvimento back-end com Node.js e NestJS
+- Desenvolvimento back-end com NestJS
 - APIs REST
-- SQL e modelagem de banco de dados
+- PostgreSQL e modelagem de banco de dados
 - Docker e ambiente Linux
-
----
-
-## 📚 Atualmente estudando
-
-* React/Next
-* NestJS
-* MySQL
-* Docker
-* Linux
 
 ---
 
@@ -56,6 +47,7 @@ Atualmente, estou aprofundando meus conhecimentos em:
 [![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
 [![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
 [![NestJS](https://skillicons.dev/icons?i=nestjs)](https://nestjs.com/)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://www.postgresql.org/)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 
 ### Ferramentas
@@ -81,9 +73,9 @@ Atualmente, estou aprofundando meus conhecimentos em:
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/caioxdev/caioxdev/main/profile-summary-card-output/tokyonight/3-stats.svg" width="49%">
-  <img src="https://raw.githubusercontent.com/caioxdev/caioxdev/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%">
-  <img src="https://raw.githubusercontent.com/caioxdev/caioxdev/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="98%">
+  <img src="https://raw.githubusercontent.com/caioxdev/caioxdev/main/profile-summary-card-output/tokyonight/3-stats.svg" width="400">
+  <img src="https://raw.githubusercontent.com/caioxdev/caioxdev/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="400">
+  <img src="https://raw.githubusercontent.com/caioxdev/caioxdev/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="805">
 </p>
 
 ---
