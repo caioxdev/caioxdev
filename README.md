@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Caio%20Seabra%20de%20Queiroz&fontAlign=50&fontAlignY=35&color=0:002E6E,70:007BFF,100:00BFA5&fontColor=ffffff&fontSize=40&desc=Full%20Stack%20em%20formação%20|%20React.js%20•%20NestJS%20&descAlignY=55&descAlign=50&animation=fadeIn"/>
 
-# 👋 Olá, eu sou Caio Seabra
+# 👋 Olá, eu sou o Caio
 
 Desenvolvedor em formação em Ciência da Computação, com foco na construção de aplicações web modernas e no desenvolvimento full stack.
 
