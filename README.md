@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Caio%20Seabra%20de%20Queiroz&fontAlign=50&fontAlignY=35&color=0:002E6E,70:007BFF,100:00BFA5&fontColor=ffffff&fontSize=40&desc=Full%20Stack%20em%20formação%20|%20React.js%20•%20NestJS%20&descAlignY=55&descAlign=50&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Caio%20Seabra%20de%20Queiroz&fontAlign=50&fontAlignY=35&color=0:002E6E,70:007BFF,100:00BFA5&fontColor=ffffff&fontSize=40&desc=Full%20Stack%20em%20formação%20|%20React%20•%20Node.js%20•%20TypeScript%20•%20C%23%2F.NET&descAlignY=55&descAlign=50&animation=fadeIn"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1200&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+o+Caio;Desenvolvedor+Full+Stack;Em+constante+evolu%C3%A7%C3%A3o" />
@@ -23,11 +23,11 @@ Desenvolvedor em formação em Ciência da Computação, com foco na construçã
 ## 💻 Sobre mim
 
 Estudante de Ciência da Computação.
-Construindo aplicações web full stack — front com React/Next, back com NestJS.
+Construindo aplicações web full stack — front com React/Next, back com Node.js/Express e C#/.NET.
 
 Atualmente, estou aprofundando meus conhecimentos em:
 
-- Desenvolvimento back-end com NestJS
+- Desenvolvimento back-end com Node.js, Express e C#/.NET
 - APIs REST
 - PostgreSQL e modelagem de banco de dados
 - Docker e ambiente Linux
@@ -40,15 +40,17 @@ Atualmente, estou aprofundando meus conhecimentos em:
 
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
 [![NextJS](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
-[![Vue](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
 [![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
 [![Sass](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/)
 
 ### Back-end
 
+### Back-end
+
 [![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
 [![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
-[![NestJS](https://skillicons.dev/icons?i=nestjs)](https://nestjs.com/)
+[![DotNet](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://www.postgresql.org/)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 
