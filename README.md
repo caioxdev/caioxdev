@@ -73,17 +73,14 @@ Atualmente, estou aprofundando meus conhecimentos em:
 
 ## 📊 Estatísticas do GitHub
 
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
+<p align="left">
   <img
-    src="https://SEU-DOMINIO-VERCEL/api?username=caioxdev&theme=tokyonight&show_icons=true"
+    src="https://github-stats-extended-nsruj7khx-caio-s-projects-5ff0d480.vercel.app/api?username=caioxdev&theme=tokyonight&show_icons=true"
     height="180"
     alt="Estatísticas do GitHub"
   />
   <img
-    src="https://SEU-DOMINIO-VERCEL/api/top-langs?username=caioxdev&layout=compact&theme=tokyonight"
+    src="https://github-stats-extended-nsruj7khx-caio-s-projects-5ff0d480.vercel.app/api/top-langs?username=caioxdev&layout=compact&theme=tokyonight"
     height="180"
     alt="Linguagens mais utilizadas"
   />
