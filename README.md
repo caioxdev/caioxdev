@@ -46,8 +46,6 @@ Atualmente, estou aprofundando meus conhecimentos em:
 
 ### Back-end
 
-### Back-end
-
 [![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
 [![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://www.postgresql.org/)
@@ -75,10 +73,20 @@ Atualmente, estou aprofundando meus conhecimentos em:
 
 ## 📊 Estatísticas do GitHub
 
+
+## 📊 Estatísticas do GitHub
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/caioxdev/caioxdev/main/profile-summary-card-output/tokyonight/3-stats.svg" width="400">
-  <img src="https://raw.githubusercontent.com/caioxdev/caioxdev/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="400">
-  <img src="https://raw.githubusercontent.com/caioxdev/caioxdev/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="805">
+  <img
+    src="https://SEU-DOMINIO-VERCEL/api?username=caioxdev&theme=tokyonight&show_icons=true"
+    height="180"
+    alt="Estatísticas do GitHub"
+  />
+  <img
+    src="https://SEU-DOMINIO-VERCEL/api/top-langs?username=caioxdev&layout=compact&theme=tokyonight"
+    height="180"
+    alt="Linguagens mais utilizadas"
+  />
 </p>
 
 ---
