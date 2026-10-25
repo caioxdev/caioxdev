@@ -154,9 +154,10 @@ Interface de uma ferramenta de automação de testes de APIs REST, desenvolvida 
 | | |
 | --- | --- |
 | **Contexto** | Porto Digital · Banco do Brasil |
-| **Stack** | `HTML` `Sass` `JavaScript` `Bootstrap` |
+| **Stack** | `JavaScript` `Sass` `Bootstrap` |
 | **Destaques** | Layout responsivo · Estilos modulares · Kanban |
 | **Demo** | [Acessar aplicação](https://front-end-banco-do-brasil-c8rm9ns1e-caio-s-projects-5ff0d480.vercel.app/) |
+| **Código** | [GitHub](https://github.com/caioxdev/Frontend-Banco-do-Brasil) |
 
 ---
 
@@ -168,6 +169,7 @@ Projeto acadêmico para praticar programação orientada a objetos e persistênc
 | --- | --- |
 | **Stack** | `Java` `MySQL` |
 | **Destaques** | CRUD · Regras de negócio · Persistência relacional · POO |
+| **Código** | [GitHub](https://github.com/caioxdev/Projeto-Ifood-POO) |
 
 ---
 
@@ -177,8 +179,10 @@ Aplicação web para conversão de moedas utilizando cotações externas.
 
 | | |
 | --- | --- |
-| **Stack** | `HTML` `CSS` `JavaScript` |
+| **Stack** | `JavaScript` |
 | **Destaques** | Consumo de API REST · `async/await` · Validação de entradas · Tratamento de erros |
+| **Demo** | [Acessar aplicação](https://caioxdev.github.io/Conversor-de-Moedas/) |
+| **Código** | [GitHub](https://github.com/caioxdev/Conversor-de-Moedas) |
 
 ---
 
@@ -188,9 +192,10 @@ Quiz interativo com alternância entre tema claro e escuro.
 
 | | |
 | --- | --- |
-| **Stack** | `HTML` `CSS` `JavaScript` |
+| **Stack** | `JavaScript` |
 | **Destaques** | Manipulação do DOM · Sistema de pontuação · Alternância de tema |
 | **Demo** | [Acessar aplicação](https://quiz-naruto.netlify.app/) |
+| **Código** | [GitHub](https://github.com/caioxdev/quiz-naruto) |
 
 ---
 
