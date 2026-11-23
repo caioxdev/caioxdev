@@ -1,12 +1,13 @@
- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Caio%20Seabra%20de%20Queiroz&fontAlign=50&fontAlignY=35&color=0:002E6E,70:007BFF,100:00BFA5&fontColor=ffffff&fontSize=40&desc=Full%20Stack%20em%20forma%C3%A7%C3%A3o%20%7C%20Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20React%20%E2%80%A2%20TypeScript&descAlignY=55&descAlign=50&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Caio%20Seabra%20de%20Queiroz&fontAlign=50&fontAlignY=35&color=0:002E6E,70:007BFF,100:00BFA5&fontColor=ffffff&fontSize=40&desc=Full%20Stack%20%7C%20TypeScript%20%E2%80%A2%20React%20%E2%80%A2%20Node.js%20%E2%80%A2%20Express%20%E2%80%A2%20PostgreSQL&descAlignY=55&descAlign=50&animation=fadeIn"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&center=true&vCenter=true&width=750&lines=Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o;Top+10+no+Porto+Digital+com+NeuraZen;Construindo+solu%C3%A7%C3%B5es+web+com+Java+e+React" alt="Texto animado"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&center=true&vCenter=true&width=750&lines=Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o;TypeScript+%7C+React+%7C+Express+%7C+PostgreSQL;Top+10+no+Porto+Digital+com+NeuraZen;Buscando+est%C3%A1gio+em+desenvolvimento" alt="Texto animado"/>
 </p>
 
 <p align="center">
-  Estudante de Ciência da Computação na UCB<br>
-  Desenvolvedor em formação, com foco em aplicações web, APIs REST e bancos de dados.
+  Estudante de Ciência da Computação na UCB · 5º semestre<br>
+  Full Stack em formação. Foco em TypeScript, APIs REST, bancos de dados e segurança.<br>
+  <b>Buscando estágio em desenvolvimento web (Full Stack / Back-end).</b>
 </p>
 
 <p align="center">
@@ -22,9 +23,9 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de Ciência da Computação na Universidade Católica de Brasília (UCB) e desenvolvedor em formação, com experiência acadêmica em projetos web e trabalho colaborativo.
+Estudante de Ciência da Computação na Universidade Católica de Brasília (UCB). Desenvolvedor Full Stack em formação, com experiência acadêmica em projetos web e trabalho em equipe.
 
-Tenho experiência com desenvolvimento front-end e back-end, integração de APIs REST, bancos de dados relacionais e metodologias ágeis, como Scrum e Kanban.
+Stack principal: **TypeScript, React, Node.js, Express e PostgreSQL**. Experiência com APIs REST, bancos relacionais, Docker e metodologias ágeis (Scrum e Kanban).
 
 Participei de projetos em parceria com o Banco do Brasil, o Porto Digital e o HUB-EBSERH.
 
@@ -34,12 +35,11 @@ Participei de projetos em parceria com o Banco do Brasil, o Porto Digital e o HU
 
 ## 🎯 Foco atual
 
-- Back-end com Java e Spring Boot.
-- Desenvolvimento de interfaces com React e TypeScript.
-- Construção e integração de APIs REST.
-- Modelagem e persistência de dados com PostgreSQL.
-- Controle de versão com Git e GitHub.
-- Desenvolvimento de um portfólio pessoal.
+- **Full Stack:** TypeScript, React, Node.js e Express.
+- **Back-end:** APIs REST, autenticação com JWT, validação com Zod.
+- **Banco de dados:** PostgreSQL, modelagem e otimização de queries.
+- **Infra:** Docker, Git, GitHub e Linux.
+- **Próximos passos:** NestJS, testes automatizados e Hono.
 
 ---
 
@@ -48,7 +48,6 @@ Participei de projetos em parceria com o Banco do Brasil, o Porto Digital e o HU
 ### Linguagens
 
 <p>
-  <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" alt="Java"/></a>
   <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript"/></a>
   <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/></a>
 </p>
@@ -56,8 +55,8 @@ Participei de projetos em parceria com o Banco do Brasil, o Porto Digital e o HU
 ### Back-end
 
 <p>
-  <a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot"/></a>
   <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/></a>
+  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" alt="Express"/></a>
 </p>
 
 ### Front-end
@@ -80,11 +79,23 @@ Participei de projetos em parceria com o Banco do Brasil, o Porto Digital e o HU
 <p>
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git"/></a>
   <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
-   <a href="https://gitlab.com/"><img src="https://skillicons.dev/icons?i=gitlab" alt="GitHub"/></a>
+  <a href="https://gitlab.com/"><img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab"/></a>
   <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"/></a>
   <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" alt="Figma"/></a>
   <a href="https://kernel.org/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux"/></a>
 </p>
+
+### 📚 Em estudo
+
+<p>
+  <a href="https://nestjs.com/"><img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS"/></a>
+  <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go" alt="Go"/></a>
+  <a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" alt="C"/></a>
+  <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" alt="C++"/></a>
+  <a href="https://hono.dev/"><img src="https://skillicons.dev/icons?i=hono" alt="Hono"/></a>
+</p>
+
+`NestJS` `Hono` `Go` `C/C++` `Zod` `JWT` `Testes automatizados` `Cibersegurança`
 
 ---
 
@@ -132,6 +143,18 @@ Universidade Católica de Brasília (UCB) · 2025–2029 (previsão)
 ---
 
 ## 🚀 Projetos
+
+### 🔐 API de Tarefas · Full Stack
+
+API REST com autenticação e interface web. Projeto central do meu estudo atual.
+
+| | |
+| --- | --- |
+| **Stack planejada** | `React` `TypeScript` `Express` `PostgreSQL` `Zod` `JWT` `Docker` |
+| **Destaques** | Autenticação JWT · Validação com Zod · CRUD · Testes · Docker |
+| **Status** | Em desenvolvimento |
+
+---
 
 ### 🏥 SSGHx · Gestão Laboratorial e Exames de Imagem
 
